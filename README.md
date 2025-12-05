@@ -1,5 +1,5 @@
 # chat-app
-Simple real-time chat backend server.
+Simple real-time chat backend server. (: 
 
 # 🌟 Features
 - Real-time messaging with WebSocket
